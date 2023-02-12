@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Dragon&#39;s eye</title>
-    <link>https://kojiro526.github.io/dragons-eye/</link>
-    <description>Recent content on Dragon&#39;s eye</description>
+    <title>Blogs on Dragon&#39;s eye</title>
+    <link>https://kojiro526.github.io/dragons-eye/blog/</link>
+    <description>Recent content in Blogs on Dragon&#39;s eye</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
     <lastBuildDate>Sun, 12 Feb 2023 17:00:33 +0900</lastBuildDate>
     
-	<atom:link href="https://kojiro526.github.io/dragons-eye/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://kojiro526.github.io/dragons-eye/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
