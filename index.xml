@@ -12,6 +12,25 @@
     
     
     <item>
+      <title>Twitterの検索リンクを生成するサービス「Past Tweeter」をリリースした</title>
+      <link>https://kojiro526.github.io/dragons-eye/blog/2024/0302-released-a-tool-for-twitter/</link>
+      <pubDate>Sat, 02 Mar 2024 10:00:36 +0900</pubDate>
+      
+      <guid>https://kojiro526.github.io/dragons-eye/blog/2024/0302-released-a-tool-for-twitter/</guid>
+      <description>思い立って作ってみたのでリリースしました。
+https://past-tweeter.com/
+任意の期間のフォロイーのツィート（ポスト）を検索するURLを生成するサービスを作ってみましたの。https://t.co/m6JAB4VeHp
+&amp;mdash; Kojiro㌠ (@kojiro_jn) February 29, 2024  Twitter（現：X）に日付を指定して検索したり、検索結果をフォローしている人（フォロイー）に限定したりする機能があり、それはWeb版の「高度な検索」などでも検索することができます。
+   この機能を使うと、過去の任意の期間のフォロイーの投稿を振り返ることができて面白いですが、残念ながら公式のUIでは日付までしか指定できず、時刻を指定することができません。
+裏ワザというかTipsとして、手打ちで時刻まで入れれば普通に時刻指定で検索できますが、入力するのがちょっと面倒です。（PC版はまだしもモバイルアプリなどではさらに面倒い）
+   なので、WebのUIから日時の期間を指定すると検索パラメータを付加したURLを生成するツールが欲しくなったので作ってみました。
+ラピュタ放映時のバルス祭りとか、2010年のはやぶさが帰還したときのタイムラインの盛り上がりとか、振り返ってみると懐かしい気持ちになるとともに、時の流れの速さに遠い目になったりもします。
+2011年12月9日の日本人総出によるTwitterへの公開DOS攻撃（23時22分から+3分）https://t.co/nUyJanesW7
+&amp;mdash; Kojiro㌠ (@kojiro_jn) February 29, 2024  2010年6月13日、はやぶさの大気圏突入（22時51分頃）の数分前からhttps://t.co/IvM1lkEWgo
+&amp;mdash; Kojiro㌠ (@kojiro_jn) February 29, 2024  </description>
+    </item>
+    
+    <item>
       <title>新しいマウスを買った</title>
       <link>https://kojiro526.github.io/dragons-eye/blog/2024/0106-bought-a-new-mouse/</link>
       <pubDate>Sat, 06 Jan 2024 14:40:54 +0900</pubDate>
